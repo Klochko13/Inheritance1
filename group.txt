@@ -1,0 +1,6 @@
+Pinkman Jessie 25 Chemistry WW_220 90.0 95.0
+White Walter 50 Chemistry 25
+Schreder Hank 40 Criminalistic OBN 70.0 50.0 How to catch Heisenberg
+Vercetti Tommy 30 Theft Vice 98.0 99.0 Get money back grade: 5
+Diaz Ricardo 50 Weapons distribution 20
+Rosenberg Ken 35 Lower Vice 35.0 22.0 Get money grade: 3
